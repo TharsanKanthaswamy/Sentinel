@@ -1,0 +1,53 @@
+{
+  ".app/AppsRequestTrigger.xaml": [],
+  "SimpleApproval_RejectButton_click.xaml": [
+    {
+      "FullName": null,
+      "ActivityIdRef": "SubmitAction_1",
+      "IsCollapsed": false,
+      "IsEnabled": true,
+      "RequiresConfiguration": false,
+      "PropertiesBackendMetadata": [
+        {
+          "PropertyName": "Outcome",
+          "RenderType": 0,
+          "Widget": "AutoComplete",
+          "Conversion": null
+        },
+        {
+          "PropertyName": "Comment",
+          "RenderType": 1,
+          "Widget": null,
+          "Conversion": null
+        }
+      ],
+      "Status": 0
+    }
+  ],
+  "SimpleApproval_ApproveButton_click.xaml": [
+    {
+      "FullName": null,
+      "ActivityIdRef": "SubmitAction_1",
+      "IsCollapsed": false,
+      "IsEnabled": true,
+      "RequiresConfiguration": false,
+      "PropertiesBackendMetadata": [
+        {
+          "PropertyName": "Outcome",
+          "RenderType": 0,
+          "Widget": "AutoComplete",
+          "Conversion": null
+        },
+        {
+          "PropertyName": "Comment",
+          "RenderType": 1,
+          "Widget": null,
+          "Conversion": null
+        }
+      ],
+      "Status": 0
+    }
+  ],
+  "Main.xaml": [],
+  ".local/generated/Triggers.Generated.xaml": []
+}

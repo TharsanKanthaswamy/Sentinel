@@ -1,0 +1,20 @@
+{
+  "SolutionId": "f242d4fb-c298-4f4e-92c5-d2e201b75d1e",
+  "Projects": [
+    {
+      "Id": "1a900fc1-6104-48aa-9c87-d86651e7c4d9",
+      "Type": "CaseManagement",
+      "ProjectRelativePath": "Maestro Case/project.uiproj"
+    },
+    {
+      "Id": "c857aeb5-db19-4115-807a-0f49f9718add",
+      "Type": "Process",
+      "ProjectRelativePath": "RPA Workflow/project.uiproj"
+    },
+    {
+      "Id": "c2cb7d34-e690-46ed-b1e4-feae67ee7c6e",
+      "Type": "Process",
+      "ProjectRelativePath": "SimpleApprovalApp/project.uiproj"
+    }
+  ]
+}

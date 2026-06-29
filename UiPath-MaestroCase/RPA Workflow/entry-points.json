@@ -1,0 +1,34 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "$id": "entry-points.json",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "ab13d1e5-dcd3-47d9-a831-e43c2029a1f5",
+      "type": "Process",
+      "input": null,
+      "output": {
+        "type": "object",
+        "properties": {
+          "riskScore": {
+            "type": "number",
+            "minimum": -1.7976931348623157E+308,
+            "maximum": 1.7976931348623157E+308
+          },
+          "accountId": {
+            "type": "string"
+          },
+          "riskLevel": {
+            "type": "string"
+          },
+          "flags": {
+            "type": "string"
+          },
+          "isSuspicious": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  ]
+}
