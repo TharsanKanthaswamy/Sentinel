@@ -13,12 +13,19 @@ UiPath Maestro orchestrates the workflow, and humans make final decisions.
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
+### 🎬 Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/V6ib-e0abCs/maxresdefault.jpg)](https://youtu.be/V6ib-e0abCs)
+
+▶️ **[Watch the full screen recording on YouTube](https://youtu.be/V6ib-e0abCs)**
+
 </div>
 
 ---
 
 ## Table of Contents
 
+- [Demo](#-demo)
 - [Overview](#overview)
 - [Architecture](#architecture)
 - [Investigation Workflow](#investigation-workflow)
