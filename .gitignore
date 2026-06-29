@@ -3,8 +3,16 @@ node_modules/
 
 # Build outputs
 dist/
+dist-ssr/
 build/
 .tsbuildinfo
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
 
 # IDE/Editor config
 .vscode/
@@ -18,3 +26,30 @@ build/
 # System Files
 .DS_Store
 Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# UiPath local/cache
+**/.local/
+*_UiCache.zip
+*.crswap
+**/.entities/EntitiesBundle.*.zip
+**/.agent-builder/
+remote-repository.config.json
+.sw-path-marker
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temp
+*.tmp
+*.bak
+*.swp
