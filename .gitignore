@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+.tsbuildinfo
+
+# IDE/Editor config
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System Files
+.DS_Store
+Thumbs.db
